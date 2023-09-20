@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/azad-pori.ttf",
+      "sha1": "0a80963f4a5ff9780f0bfce1f22efedb809b3004"
+    },
+    {
+      "path": "src/assets/fonts/subha-swarna.ttf",
+      "sha1": "5a94c7f5de621cfcd01e8073fa97ae0857be8dc4"
+    },
+    {
+      "path": "src/assets/images/background.png",
+      "sha1": "88fef641b88c293dd4336fc14bcac1eaf9004164"
+    },
+    {
+      "path": "src/assets/images/logo.png",
+      "sha1": "10aa7c934a6b3c7efa17ceaad97a76122aa10ddf"
+    },
+    {
+      "path": "src/assets/images/logo.svg",
+      "sha1": "b9896526ba7f52de3df7557d27f17c1b53b4ab62"
+    },
+    {
+      "path": "src/assets/images/title.png",
+      "sha1": "44e10bdc33bf1276084c1eb988a3df6a9f94046f"
+    },
+    {
+      "path": "src/assets/images/title.svg",
+      "sha1": "bb1cf44a4bf66b2a0ef6b385c0f4070264d2f73b"
+    }
+  ]
+}

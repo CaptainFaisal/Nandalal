@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522791880453",
+    "project_id": "nanadalal-48ad8",
+    "storage_bucket": "nanadalal-48ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522791880453:android:fe985b3dec85373ec5596c",
+        "android_client_info": {
+          "package_name": "com.nandalal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP90_o7x9je5Dz2JHMhU1FGpYhaC_D72I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
